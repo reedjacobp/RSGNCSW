@@ -12,6 +12,6 @@ This is what we do :)
 
 ## Team Members
 
-| Full Name                     | Nickname       | Role         |
-| :---------------------------- | :------------: | ------------ |
-| Jacob Patrick Reed            | Jake           | Advisor(?)   |
+| Full Name                     | Nickname       | Role         | Email Address                      | Discord                        |
+| :---------------------------- | :------------: | ------------ | ---------------------------------- | ------------------------------ |
+| Jacob Patrick Reed            | Jake           | Advisor(?)   | reed.jacobp@gmail.com              | jakethasnek#0898               |
